@@ -1,267 +1,267 @@
 [
-  "Software Engineer Kappa",
-  "Teacher PogChamp",
-  "Doctor LUL",
-  "Chef Kreygasm",
-  "Artist KappaPride",
-  "Musician DansGame",
-  "Nurse BibleThump",
-  "Firefighter CoolCat",
-  "Pilot SwiftRage",
-  "Scientist ResidentSleeper",
-  "Writer 4Head",
-  "Farmer VoHiYo",
-  "Lawyer NotLikeThis",
-  "Mechanic FailFish",
-  "Electrician MrDestructoid",
-  "Carpenter PJSalt",
-  "Police Officer WutFace",
-  "Barista HeyGuys",
-  "Journalist KappaRoss",
-  "Coach BabyRage",
-  "Dentist SMOrc",
-  "Pharmacist MingLee",
-  "Photographer KappaClaus",
-  "Baker FrankerZ",
-  "Plumber POGGERS",
-  "Designer SeemsGood",
-  "Driver KappaWealth",
-  "Gardener KappaHD",
-  "Veterinarian KappaCool",
-  "Librarian KappaRoss",
-  "Translator KappaPride",
-  "Receptionist KappaClaus",
-  "Surgeon KappaWealth",
-  "Accountant KappaHD",
-  "Architect KappaCool",
-  "Animator KappaRoss",
-  "Athlete KappaPride",
-  "Bouncer KappaClaus",
-  "Broadcaster KappaWealth",
-  "Bus Driver KappaHD",
-  "Butcher KappaCool",
-  "Cartographer KappaRoss",
-  "Cleaner KappaPride",
-  "Consultant KappaClaus",
-  "Dancer KappaWealth",
-  "Detective KappaHD",
-  "Developer KappaCool",
-  "DJ KappaRoss",
-  "Economist KappaPride",
-  "Engineer KappaClaus",
-  "Entertainer KappaWealth",
-  "Fashion Designer KappaHD",
-  "Film Director KappaCool",
-  "Flight Attendant KappaRoss",
-  "Geologist KappaPride",
-  "Hairdresser KappaClaus",
-  "Illustrator KappaWealth",
-  "Interpreter KappaHD",
-  "Judge KappaCool",
-  "Laboratory Technician KappaRoss",
-  "Launderer KappaPride",
-  "Lecturer KappaClaus",
-  "Machine Operator KappaWealth",
-  "Magician KappaHD",
-  "Makeup Artist KappaCool",
-  "Manager KappaRoss",
-  "Meteorologist KappaPride",
-  "Model KappaClaus",
-  "Nanny KappaWealth",
-  "Navigator KappaHD",
-  "Nutritionist KappaCool",
-  "Occupational Therapist KappaRoss",
-  "Optometrist KappaPride",
-  "Painter KappaClaus",
-  "Paramedic KappaWealth",
-  "Physician KappaHD",
-  "Physiotherapist KappaCool",
-  "Politician KappaRoss",
-  "Programmer KappaPride",
-  "Psychologist KappaClaus",
-  "Reporter KappaWealth",
-  "Researcher KappaHD",
-  "Secretary KappaCool",
-  "Security Guard KappaRoss",
-  "Singer KappaPride",
-  "Social Worker KappaClaus",
-  "Soldier KappaWealth",
-  "Statistician KappaHD",
-  "Technician KappaCool",
-  "Waiter KappaRoss",
-  "Web Developer KappaPride",
-  "Zoologist KappaClaus",
-  "Account Executive KappaWealth",
-  "Account Manager KappaHD",
-  "Accounts Payable Clerk KappaCool",
-  "Accounts Receivable Clerk KappaRoss",
-  "Actuary KappaPride",
-  "Administrative Assistant KappaClaus",
-  "Advertising Manager KappaWealth",
-  "Aerospace Engineer KappaHD",
-  "Agricultural Engineer KappaCool",
-  "Air Traffic Controller KappaRoss",
-  "Aircraft Mechanic KappaPride",
-  "Aircraft Pilot KappaClaus",
-  "Analyst KappaWealth",
-  "Anesthesiologist KappaHD",
-  "App Developer KappaCool",
-  "Application Engineer KappaRoss",
-  "Archaeologist KappaPride",
-  "Archivist KappaClaus",
-  "Art Director KappaWealth",
-  "Art Teacher KappaHD",
-  "Assembler KappaCool",
-  "Astronomer KappaRoss",
-  "Athletic Trainer KappaPride",
-  "Attorney KappaClaus",
-  "Auditor KappaWealth",
-  "Author KappaHD",
-  "Auto Mechanic KappaCool",
-  "Baker KappaRoss",
-  "Bank Teller KappaPride",
-  "Barber KappaClaus",
-  "Bartender KappaWealth",
-  "Biochemist KappaHD",
-  "Biologist KappaCool",
-  "Biomedical Engineer KappaRoss",
-  "Bookkeeper KappaPride",
-  "Botanist KappaClaus",
-  "Brand Manager KappaWealth",
-  "Broadcast Technician KappaHD",
-  "Broker KappaCool",
-  "Budget Analyst KappaRoss",
-  "Building Inspector KappaPride",
-  "Bus Driver KappaClaus",
-  "Business Analyst KappaWealth",
-  "Business Development Manager KappaHD",
-  "Business Manager KappaCool",
-  "Butcher KappaRoss",
-  "Buyer KappaPride",
-  "Cabinetmaker KappaClaus",
-  "Call Center Representative KappaWealth",
-  "Camera Operator KappaHD",
-  "Campaign Manager KappaCool",
-  "Cardiologist KappaRoss",
-  "Carpenter KappaPride",
-  "Cartographer KappaClaus",
-  "Cashier KappaWealth",
-  "Chemical Engineer KappaHD",
-  "Chemist KappaCool",
-  "Chief Executive Officer KappaRoss",
-  "Chief Financial Officer KappaPride",
-  "Chief Marketing Officer KappaClaus",
-  "Chief Operating Officer KappaWealth",
-  "Chief Technology Officer KappaHD",
-  "Childcare Worker KappaCool",
-  "Chiropractor KappaRoss",
-  "Civil Engineer KappaPride",
-  "Claims Adjuster KappaClaus",
-  "Clinical Psychologist KappaWealth",
-  "Coach KappaHD",
-  "Commercial Pilot KappaCool",
-  "Communications Specialist KappaRoss",
-  "Compensation Analyst KappaPride",
-  "Compliance Officer KappaClaus",
-  "Computer Programmer KappaWealth",
-  "Computer Scientist KappaHD",
-  "Computer Support Specialist KappaCool",
-  "Computer Systems Analyst KappaRoss",
-  "Construction Manager KappaPride",
-  "Consultant KappaClaus",
-  "Content Manager KappaWealth",
-  "Content Writer KappaHD",
-  "Contract Administrator KappaCool",
-  "Controller KappaRoss",
-  "Cook KappaPride",
-  "Copy Editor KappaClaus",
-  "Copywriter KappaWealth",
-  "Corporate Trainer KappaHD",
-  "Correctional Officer KappaCool",
-  "Cost Estimator KappaRoss",
-  "Counselor KappaPride",
-  "Court Reporter KappaClaus",
-  "Credit Analyst KappaWealth",
-  "Criminal Investigator KappaHD",
-  "Customer Service Manager KappaCool",
-  "Customer Service Representative KappaRoss",
-  "Cybersecurity Analyst KappaPride",
-  "Data Analyst KappaClaus",
-  "Data Entry Clerk KappaWealth",
-  "Data Scientist KappaHD",
-  "Database Administrator KappaCool",
-  "Delivery Driver KappaRoss",
-  "Dentist KappaPride",
-  "Dermatologist KappaClaus",
-  "Desktop Publisher KappaWealth",
-  "Detective KappaHD",
-  "Diagnostic Medical Sonographer KappaCool",
-  "Dietitian KappaRoss",
-  "Digital Marketing Manager KappaPride",
-  "Director of Operations KappaClaus",
-  "Dispatcher KappaWealth",
-  "Doctor KappaHD",
-  "Dog Trainer KappaCool",
-  "Draftsman KappaRoss",
-  "Driver KappaPride",
-  "Economist KappaClaus",
-  "Editor KappaWealth",
-  "Education Administrator KappaHD",
-  "Electrical Engineer KappaCool",
-  "Electrician KappaRoss",
-  "Elementary School Teacher KappaPride",
-  "Emergency Medical Technician KappaClaus",
-  "Engineer KappaWealth",
-  "Engineering Technician KappaHD",
-  "English Teacher KappaCool",
-  "Environmental Engineer KappaRoss",
-  "Environmental Scientist KappaPride",
-  "Event Coordinator KappaClaus",
-  "Event Planner KappaWealth",
-  "Executive Assistant KappaHD",
-  "Executive Chef KappaCool",
-  "Executive Director KappaRoss",
-  "Exercise Physiologist KappaPride",
-  "Facilities Manager KappaClaus",
-  "Fashion Designer KappaWealth",
-  "Film Director KappaHD",
-  "Financial Advisor KappaCool",
-  "Financial Analyst KappaRoss",
-  "Financial Manager KappaPride",
-  "Firefighter KappaClaus",
-  "Fitness Trainer KappaWealth",
-  "Flight Attendant KappaHD",
-  "Florist KappaCool",
-  "Food Scientist KappaRoss",
-  "Forensic Scientist KappaPride",
-  "Forester KappaClaus",
-  "Front Desk Clerk KappaWealth",
-  "Fundraiser KappaHD",
-  "Game Designer KappaCool",
-  "Game Developer KappaRoss",
-  "Gardener KappaPride",
-  "General Manager KappaClaus",
-  "Geographer KappaWealth",
-  "Geologist KappaHD",
-  "Graphic Designer KappaCool",
-  "Guidance Counselor KappaRoss",
-  "Hair Stylist KappaPride",
-  "Health Educator KappaClaus",
-  "Healthcare Administrator KappaWealth",
-  "Heating, Ventilation, and Air Conditioning Technician KappaHD",
-  "High School Teacher KappaCool",
-  "Historian KappaRoss",
-  "Home Health Aide KappaPride",
-  "Hospital Administrator KappaClaus",
-  "Hotel Manager KappaWealth",
-  "Housekeeper KappaHD",
-  "Human Resources Manager KappaCool",
-  "Human Resources Specialist KappaRoss",
-  "Illustrator KappaPride",
-  "Industrial Designer KappaClaus",
-  "Industrial Engineer KappaWealth",
-  "Information Security Analyst KappaHD",
-  "Information Technology Manager KappaCool",
+  Software Engineer Kappa
+  Teacher PogChamp
+  Doctor LUL
+  Chef Kreygasm
+  Artist KappaPride
+  Musician DansGame
+  Nurse BibleThump
+  Firefighter CoolCat
+  Pilot SwiftRage
+  Scientist ResidentSleeper
+  Writer 4Head
+  Farmer VoHiYo
+  Lawyer NotLikeThis
+  Mechanic FailFish
+  Electrician MrDestructoid
+  Carpenter PJSalt
+  Police Officer WutFace
+  Barista HeyGuys
+  Journalist KappaRoss
+  Coach BabyRage
+  Dentist SMOrc
+  Pharmacist MingLee
+  Photographer KappaClaus
+  Baker FrankerZ
+  Plumber POGGERS
+  Designer SeemsGood
+  Driver KappaWealth
+  Gardener KappaHD
+  Veterinarian KappaCool
+  Librarian KappaRoss
+  Translator KappaPride
+  Receptionist KappaClaus
+  Surgeon KappaWealth
+  Accountant KappaHD
+  Architect KappaCool
+  Animator KappaRoss
+  Athlete KappaPride
+  Bouncer KappaClaus
+  Broadcaster KappaWealth
+  Bus Driver KappaHD
+  Butcher KappaCool
+  Cartographer KappaRoss
+  Cleaner KappaPride
+  Consultant KappaClaus
+  Dancer KappaWealth
+  Detective KappaHD
+  Developer KappaCool
+  DJ KappaRoss
+  Economist KappaPride
+  Engineer KappaClaus
+  Entertainer KappaWealth
+  Fashion Designer KappaHD
+  Film Director KappaCool
+  Flight Attendant KappaRoss
+  Geologist KappaPride
+  Hairdresser KappaClaus
+  Illustrator KappaWealth
+  Interpreter KappaHD
+  Judge KappaCool
+  Laboratory Technician KappaRoss
+  Launderer KappaPride
+  Lecturer KappaClaus
+  Machine Operator KappaWealth
+  Magician KappaHD
+  Makeup Artist KappaCool
+  Manager KappaRoss
+  Meteorologist KappaPride
+  Model KappaClaus
+  Nanny KappaWealth
+  Navigator KappaHD
+  Nutritionist KappaCool
+  Occupational Therapist KappaRoss
+  Optometrist KappaPride
+  Painter KappaClaus
+  Paramedic KappaWealth
+  Physician KappaHD
+  Physiotherapist KappaCool
+  Politician KappaRoss
+  Programmer KappaPride
+  Psychologist KappaClaus
+  Reporter KappaWealth
+  Researcher KappaHD
+  Secretary KappaCool
+  Security Guard KappaRoss
+  Singer KappaPride
+  Social Worker KappaClaus
+  Soldier KappaWealth
+  Statistician KappaHD
+  Technician KappaCool
+  Waiter KappaRoss
+  Web Developer KappaPride
+  Zoologist KappaClaus
+  Account Executive KappaWealth
+  Account Manager KappaHD
+  Accounts Payable Clerk KappaCool
+  Accounts Receivable Clerk KappaRoss
+  Actuary KappaPride
+  Administrative Assistant KappaClaus
+  Advertising Manager KappaWealth
+  Aerospace Engineer KappaHD
+  Agricultural Engineer KappaCool
+  Air Traffic Controller KappaRoss
+  Aircraft Mechanic KappaPride
+  Aircraft Pilot KappaClaus
+  Analyst KappaWealth
+  Anesthesiologist KappaHD
+  App Developer KappaCool
+  Application Engineer KappaRoss
+  Archaeologist KappaPride
+  Archivist KappaClaus
+  Art Director KappaWealth
+  Art Teacher KappaHD
+  Assembler KappaCool
+  Astronomer KappaRoss
+  Athletic Trainer KappaPride
+  Attorney KappaClaus
+  Auditor KappaWealth
+  Author KappaHD
+  Auto Mechanic KappaCool
+  Baker KappaRoss
+  Bank Teller KappaPride
+  Barber KappaClaus
+  Bartender KappaWealth
+  Biochemist KappaHD
+  Biologist KappaCool
+  Biomedical Engineer KappaRoss
+  Bookkeeper KappaPride
+  Botanist KappaClaus
+  Brand Manager KappaWealth
+  Broadcast Technician KappaHD
+  Broker KappaCool
+  Budget Analyst KappaRoss
+  Building Inspector KappaPride
+  Bus Driver KappaClaus
+  Business Analyst KappaWealth
+  Business Development Manager KappaHD
+  Business Manager KappaCool
+  Butcher KappaRoss
+  Buyer KappaPride
+  Cabinetmaker KappaClaus
+  Call Center Representative KappaWealth
+  Camera Operator KappaHD
+  Campaign Manager KappaCool
+  Cardiologist KappaRoss
+  Carpenter KappaPride
+  Cartographer KappaClaus
+  Cashier KappaWealth
+  Chemical Engineer KappaHD
+  Chemist KappaCool
+  Chief Executive Officer KappaRoss
+  Chief Financial Officer KappaPride
+  Chief Marketing Officer KappaClaus
+  Chief Operating Officer KappaWealth
+  Chief Technology Officer KappaHD
+  Childcare Worker KappaCool
+  Chiropractor KappaRoss
+  Civil Engineer KappaPride
+  Claims Adjuster KappaClaus
+  Clinical Psychologist KappaWealth
+  Coach KappaHD
+  Commercial Pilot KappaCool
+  Communications Specialist KappaRoss
+  Compensation Analyst KappaPride
+  Compliance Officer KappaClaus
+  Computer Programmer KappaWealth
+  Computer Scientist KappaHD
+  Computer Support Specialist KappaCool
+  Computer Systems Analyst KappaRoss
+  Construction Manager KappaPride
+  Consultant KappaClaus
+  Content Manager KappaWealth
+  Content Writer KappaHD
+  Contract Administrator KappaCool
+  Controller KappaRoss
+  Cook KappaPride
+  Copy Editor KappaClaus
+  Copywriter KappaWealth
+  Corporate Trainer KappaHD
+  Correctional Officer KappaCool
+  Cost Estimator KappaRoss
+  Counselor KappaPride
+  Court Reporter KappaClaus
+  Credit Analyst KappaWealth
+  Criminal Investigator KappaHD
+  Customer Service Manager KappaCool
+  Customer Service Representative KappaRoss
+  Cybersecurity Analyst KappaPride
+  Data Analyst KappaClaus
+  Data Entry Clerk KappaWealth
+  Data Scientist KappaHD
+  Database Administrator KappaCool
+  Delivery Driver KappaRoss
+  Dentist KappaPride
+  Dermatologist KappaClaus
+  Desktop Publisher KappaWealth
+  Detective KappaHD
+  Diagnostic Medical Sonographer KappaCool
+  Dietitian KappaRoss
+  Digital Marketing Manager KappaPride
+  Director of Operations KappaClaus
+  Dispatcher KappaWealth
+  Doctor KappaHD
+  Dog Trainer KappaCool
+  Draftsman KappaRoss
+  Driver KappaPride
+  Economist KappaClaus
+  Editor KappaWealth
+  Education Administrator KappaHD
+  Electrical Engineer KappaCool
+  Electrician KappaRoss
+  Elementary School Teacher KappaPride
+  Emergency Medical Technician KappaClaus
+  Engineer KappaWealth
+  Engineering Technician KappaHD
+  English Teacher KappaCool
+  Environmental Engineer KappaRoss
+  Environmental Scientist KappaPride
+  Event Coordinator KappaClaus
+  Event Planner KappaWealth
+  Executive Assistant KappaHD
+  Executive Chef KappaCool
+  Executive Director KappaRoss
+  Exercise Physiologist KappaPride
+  Facilities Manager KappaClaus
+  Fashion Designer KappaWealth
+  Film Director KappaHD
+  Financial Advisor KappaCool
+  Financial Analyst KappaRoss
+  Financial Manager KappaPride
+  Firefighter KappaClaus
+  Fitness Trainer KappaWealth
+  Flight Attendant KappaHD
+  Florist KappaCool
+  Food Scientist KappaRoss
+  Forensic Scientist KappaPride
+  Forester KappaClaus
+  Front Desk Clerk KappaWealth
+  Fundraiser KappaHD
+  Game Designer KappaCool
+  Game Developer KappaRoss
+  Gardener KappaPride
+  General Manager KappaClaus
+  Geographer KappaWealth
+  Geologist KappaHD
+  Graphic Designer KappaCool
+  Guidance Counselor KappaRoss
+  Hair Stylist KappaPride
+  Health Educator KappaClaus
+  Healthcare Administrator KappaWealth
+  Heating, Ventilation, and Air Conditioning Technician KappaHD
+  High School Teacher KappaCool
+  Historian KappaRoss
+  Home Health Aide KappaPride
+  Hospital Administrator KappaClaus
+  Hotel Manager KappaWealth
+  Housekeeper KappaHD
+  Human Resources Manager KappaCool
+  Human Resources Specialist KappaRoss
+  Illustrator KappaPride
+  Industrial Designer KappaClaus
+  Industrial Engineer KappaWealth
+  Information Security Analyst KappaHD
+  Information Technology Manager KappaCool
 
 ::contentReference[oaicite:0]{index=0}
  
